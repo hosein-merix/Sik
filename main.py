@@ -8,7 +8,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.filters import Command
 
 # --- توکن ربات ---
-BOT_TOKEN = "8228537965:AAFBwx_exehFblFTqQ9apfRMN_aYtFZYMVs"  # اینجا توکن جدیدت رو بذار
+BOT_TOKEN = "YOUR_BOT_TOKEN"  # اینجا توکن جدیدت رو بذار
 
 # --- تنظیمات ---
 FISHER_ID = "@Nonobodyno666"
